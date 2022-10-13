@@ -81,7 +81,7 @@ class _LoginPageState extends State<LoginPage> {
                       isCreatingAccount = true;
                     });
                   },
-                  child: Text('Utwórz konto'),
+                  child: const Text('Utwórz konto'),
                 )
               ],
               if (isCreatingAccount == true) ...[
