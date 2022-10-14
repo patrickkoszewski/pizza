@@ -59,7 +59,7 @@ class _AddOpinionPageContentState extends State<AddOpinionPageContent> {
               FirebaseFirestore.instance.collection('restaurants').add({
                 'name': restaurantName,
                 'pizza': pizzaName,
-                'rating': 3.0,
+                'rating': rating,
               });
             },
             child: const Text('Dodaj'),
