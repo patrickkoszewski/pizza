@@ -91,7 +91,7 @@ class _LoginPageState extends State<LoginPage> {
                       isCreatingAccount = false;
                     });
                   },
-                  child: Text('Masz już konto?'),
+                  child: const Text('Masz już konto?'),
                 )
               ],
             ],
