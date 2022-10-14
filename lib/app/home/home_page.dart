@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
-import 'add_opinion/my_opinion_page_content.dart';
+import 'add_opinion/add_opinion_page_content.dart';
 import 'my_account/my_account_page_content.dart';
 import 'restaurants/restaurants_page_content.dart';
 
