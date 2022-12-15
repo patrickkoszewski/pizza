@@ -1,16 +1,22 @@
 # pizza
 
-A new Flutter project.
+A pizza rating Flutter project.
 
-## Getting Started
+Login screen using firebase:
 
-This project is a starting point for a Flutter application.
+![pizzalogin](https://user-images.githubusercontent.com/116440070/207882675-2705ca2a-de7b-4f66-93c1-ff4bd5cd2daa.png)
 
-A few resources to get you started if this is your first Flutter project:
+Main Screen with best pizza's in City ordered from worst to best:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![najlepszapizza](https://user-images.githubusercontent.com/116440070/207882672-7aa42132-d00e-4fad-bf34-e91f594b6688.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add Pizza Screen:
+
+![pizzadodaj](https://user-images.githubusercontent.com/116440070/207882660-46032387-287f-4af6-9d17-7947cb1eb629.png)
+
+LogOut Screen:
+
+![pizzawyloguj](https://user-images.githubusercontent.com/116440070/207882666-283129f0-d9a0-4603-843e-99cd1da33475.png)
+
+
+
